@@ -1,0 +1,8 @@
+{
+  "name": "angular-mobile-latest",
+  "version": "1.1.5",
+  "main": "./angular-mobile.js",
+  "dependencies": {
+    "angular": "1.1.5"
+  }
+}
