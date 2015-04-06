@@ -1,3 +1,4 @@
+# Deprecated
 bower-angular-mobile-latest
 ======================
 
